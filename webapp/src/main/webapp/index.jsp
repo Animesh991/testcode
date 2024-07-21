@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Animesh Bhai Learning</h1>
+<h2> Option Trader + Intra Trader </h2>
+<h2> Indian No 1 Trader/h2>
